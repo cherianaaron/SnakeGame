@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Audio
+comment1.params=
+comment1.target=void\ ButtonNoise()
+comment2.params=
+comment2.target=void\ SnakeNoise()
+comment3.params=stop
+comment3.target=void\ background(boolean)
+numComments=4

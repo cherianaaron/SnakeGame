@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=HighScoreTable
+comment1.params=Score\ Name
+comment1.target=void\ storeScore(int,\ java.lang.String)
+numComments=2
